@@ -80,11 +80,11 @@ WSGI_APPLICATION = 'auth.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Bharattech',
-        'USER': 'bcode_user',
+        'NAME': '########',
+        'USER': '#######',
         'PASSWORD': '#########',
-        'HOST': 'localhost',
-        'PORT': '3306'
+        'HOST': '#######',
+        'PORT': '####'
 }
 }
 

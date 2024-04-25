@@ -1,4 +1,4 @@
-# Bharattech
+# Temp
 FOR REGISTRATION  [POST]
 `/api/register/`
 
